@@ -25,9 +25,13 @@ Analysis Tools and Techniques
 Our analytical toolkit boasts a diverse array of weapons:
 
 Python: Our trusty language companion, wielding libraries like Pandas for data manipulation and NumPy for numerical crunching.
+
 Matplotlib and Seaborn: Our visual storytellers, crafting stunning charts and graphs to reveal hidden patterns.
+
 Scikit-learn: Our data science champion, utilizing machine learning algorithms to uncover deeper insights.
+
 Jupyter Notebooks: Our interactive playground, where exploration and analysis come alive.
+
 We employ a blend of techniques, including:
 
 Descriptive statistics: Quantifying key trends and patterns.
