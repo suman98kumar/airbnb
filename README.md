@@ -68,6 +68,4 @@ Feel free to fork this repository, contribute your own analysis, and share your 
 License and Acknowledgements
 This project is licensed under the [mention license, e.g., MIT License]. We express our gratitude to the data sources and contributors who made this exploration possible.
 
-Remember, this is just a template. Feel free to personalize it with specific details about your project, data, and findings.
 
-I hope this helps you craft a compelling and informative README file for your Airbnb data analysis project!
